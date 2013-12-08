@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "y",
-    "description": "The name of the application"
+    "message": "topsyTurvy",
+    "description": "Flipping the screen"
   },
   "appDescription": {
-    "message": "My Chrome Extension",
-    "description": "The description of the application"
+    "message": "topsyTurvy",
+    "description": "Rotating the screen randomly"
   }
 }
