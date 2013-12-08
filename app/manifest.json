@@ -10,17 +10,22 @@
     "default_locale": "en",
     "background": {
         "scripts": [
-            "scripts/background.js"
+            "scripts/bg.js"
         ]
     },
     "content_scripts": [
         {
             "matches": [
-                "https://www.google.co.uk/*"
+                "http://*/*",
+                "https://*/*"
             ],
             "js": [
-                "scripts/rolling.js"
+                "bower_components/jquery/jquery.min.js",
+                "scripts/topsyTurvy.js"
             ]
         }
+    ],
+    "permissions": [
+        "activeTab"
     ]
 }
