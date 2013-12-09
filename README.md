@@ -1,8 +1,8 @@
 # Topsy Turvy
 
-Randomly rotate websites
-
 (╯°□°）╯︵ ![Git Flip](http://i.imgur.com/TYjpCdZ.png "Upside down")
+
+Randomly rotating websites
 
 ## Install
 
@@ -10,7 +10,7 @@ Randomly rotate websites
 
 #### NPM
 
-`npm install
+`npm install`
 
 #### Bower
 
