@@ -6,7 +6,7 @@ Randomly rotating websites
 
 ## Install
 
-[](link)
+[From the Webstore](https://chrome.google.com/webstore/detail/topsyturvy/klbdegnpeclleadcdiocgjelhpjjihim)
 
 #### NPM
 
